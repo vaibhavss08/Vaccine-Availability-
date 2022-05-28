@@ -1,2 +1,2 @@
 # Vaccine-Availability-Check-App
-In this app, we can get the Vaccine Availability at various locations as per the user entered Pin Code and the prefered date.
+Built an android app which fetches the data from Cowin API and displays the COVID Vaccine Availability according to the entered Pin Code and selected date and chosen age grp (18+ or 45+).
